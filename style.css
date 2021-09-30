@@ -1,0 +1,192 @@
+@import url("//cdn.web-fonts.ge/fonts/archyedt-bold/css/archyedt-bold.min.css");
+
+:root{
+  color: #477EFF;
+}
+
+
+
+*{
+  margin:0;
+  padding:0;
+  position:fixed;
+} 
+  body{
+  background-image:url("1779916.jpg");
+  }
+
+button{
+  width:105px;
+  height:90px;
+  background-color:red;
+  color:#FFFFFF;
+  font-size:20px;
+  position:fixed;
+  margin-top:100px;
+  margin-left:-82px;
+  margin-top:200px;
+  font-family: "ArchyEDT-Bold", sans-serif;
+  margin-top:50px;
+  border-radius:10px;
+  
+}
+p{
+  color:white;
+  background-color:#020202;
+  width:100px;
+  height:10px;
+  text-align:center;
+ font-family: "ArchyEDT-Bold", sans-serif;
+  margin-left:150px;
+  margin-top:100px;
+  margin-top:0.4px;
+  position:fixed;
+  margin-top:200px;
+  border-radius:10px;
+}
+body{
+  background-color:#C1C1C1;
+}
+#demo{
+  overflow:hidden;
+  overflow:auto;
+  background:white;
+  color:black;
+  width:100px;
+  height:115px;
+  animation-name:boxer;
+  animation-duration: 6s;
+  position:fixed;
+}
+img{
+ border-radius:50%; 
+ padding:10px 15px;
+ margin-left:80px;
+ margin-top:-5px;
+ 
+}
+.aloo{
+  color:white;
+  bottom:230px;
+  margin-top:-00px;
+  margin-left:75px;
+  font-size:45px;
+  animation-name:example;
+  animation-duration:50s;
+}
+@keyframes example{
+  0%{color:red;}
+  10%{color:green;}
+  20%{color:yellow;}
+  30%{color:#C2A169;}
+  40%{color:#FF00BE;}
+  50%{color:#534DA8A6;}
+  60%{color:#A3A3A3;}
+  70%{color:#08FFE6;}
+  80%{color:#A54C6A;}
+  90%{color:#832BFF}
+  100%{color:#072D6373}
+}
+.shishi{
+  color:white;
+  bottom:150px;
+  font-size:30px;
+  margin-left:150px;
+  animation-name:head;
+  animation-duration:48s;
+  
+}
+@keyframes head{
+  10%{color:green;}
+  20%{color:yellow;}
+  30%{color:#C2A169;}
+  40%{color:#FF00BE;}
+  50%{color:#534DA8A6;}
+  60%{color:#A3A3A3;}
+  70%{color:#08FFE6;}
+  80%{color:#A54C6A;}
+  90%{color:#832BFF}
+  100%{color:#072D6373}
+}
+.haha{
+    color:white;
+    bottom:200px;
+    font-size:35px;
+    margin-left:100px;
+    margin:-100px;
+    margin-left:100px;
+    padding-bottom:-20px;
+    margin-bottom:10px -10px, -15px;
+    padding-bottom:-30px;
+    bottom:175px;
+    animation-name:basic; 
+    animation-duration:46s;
+    
+}
+  @keyframes basic{
+  10%{color:green;}
+  20%{color:yellow;}
+  30%{color:#C2A169;}
+  40%{color:#FF00BE;}
+  50%{color:#534DA8A6;}
+  60%{color:#A3A3A3;}
+  70%{color:#08FFE6;}
+  80%{color:#A54C6A;}
+  90%{color:#832BFF}
+  100%{color:#072D6373}
+}
+h4{
+  margin-left:-10px;
+  margin-top:-80px;
+}
+#button{
+  bottom:0;
+  margin-left:150px;
+  bottom:368px;
+  display:block;
+  overflow:scroll;
+  text-align:center;
+}
+#button:hover{
+  background-color:#A8AFFF;
+  color:black;
+  width:100px;
+  height:100px;
+  
+}
+h6{
+  margin-top: -100px;
+}
+h3{
+  margin-top:-100px;
+}
+.contact{
+  
+  
+  
+}
+a{
+  background-color:#0A95FF;
+  bottom: 40px;
+  margin-left: 180px;
+  font-size:40px;
+  
+}
+.insta{
+  margin-left: 175px;
+  color:#880404;
+}
+.linke{
+  margin-left: 280px;
+  color:#022757;
+}
+.face{
+  margin-left: 80px;
+    color:#022757;
+}
+hr{
+  width: 228px;
+  margin-top: 600px;
+  border-color:#B0B0B0;
+  margin-left:90px;
+}
